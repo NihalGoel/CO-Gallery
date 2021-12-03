@@ -1,0 +1,11 @@
+.container {
+  flex-grow: 1;
+  background-image: linear-gradient(to right, #b2b2b2 1% , white);
+  overflow-y: scroll;
+  min-width: fit-content;
+}
+
+.text {
+  margin-left: 2em;
+  margin-right: 5em;
+}
