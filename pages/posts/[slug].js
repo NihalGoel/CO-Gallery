@@ -23,14 +23,14 @@ export default function Post({ post, titles }) {
         <>
           <Head>
             <title>
-            {post.title} | c/o gallery
+            {post.title} | C|O gallery
             </title>
           </Head>
           <div className={container.container}>
             <PostHeader title={post.title} />
             <PostBody content={post.content} />
             <Menu>{titles.length > 0 && <Posts posts={titles}/>}</Menu>
-        </div>
+          </div>
         </>
       )}
         </>

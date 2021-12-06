@@ -3,7 +3,8 @@ import Head from 'next/head'
 export default function Meta() {
   return (
     <Head>
-      <title>C/O Berlin</title>
+      <title>C|O Berlin</title>
+      <meta name="robots" content="index"/>
       <link
         rel="apple-touch-icon"
         sizes="180x180"
@@ -32,7 +33,7 @@ export default function Meta() {
       <meta name="msapplication-config" content="/favicons/browserconfig.xml" />
       <meta name="theme-color" content="#000" />
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
-      <meta name="description" content={`C/O gallery.`}/>
+      <meta name="description" content="C|O gallery."/>
     </Head>
   )
 }
