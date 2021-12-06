@@ -1,7 +1,6 @@
 html {
   height: 100%;
   scrollbar-color: black white;
-  scrollbar-width: 109px;
   cursor: url('data:image/svg+xml;utf8,<svg id="svg" xmlns="http://www.w3.org/2000/svg" width="66" height="72"><circle cx="42" cy="48" r="16" stroke-width="2" style="stroke: black; fill: black; filter: blur(4px)"/></svg>') 52 52, pointer;
 }
 
