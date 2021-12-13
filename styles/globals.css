@@ -150,3 +150,18 @@ a {
   padding-top: 1em;
   background: none;
 }
+
+.adrian-sauer {
+  font-family: ambiguity-thrift-light;
+  position: absolute;
+  height: 2em;
+  padding-left: 14em;
+  padding-top: 1em;
+  background: none;
+}
+  @media only screen and (max-width: 1024px) {
+    .adrian-sauer {
+      right: 0;
+      padding-right: 2em;
+    }
+  }
