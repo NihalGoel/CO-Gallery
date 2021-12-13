@@ -4,8 +4,20 @@
   overflow-y: scroll;
   min-width: fit-content;
 }
+  @media only screen and (max-width: 600px) {
+    .container {
+      display: none;
+      visibility: hidden;
+    }
+  }
 
 .text {
   margin-left: 2em;
   margin-right: 5em;
 }
+  @media only screen and (max-width: 600px) {
+    .text {
+      margin-left: 2em;
+      margin-right: 5em;
+    }
+  }
