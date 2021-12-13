@@ -63,6 +63,28 @@ a {
 
 .post-header {
   font-family: "ambiguity-radical-light";
+  
+  justify-content: center;
+  display: flex;
+}
+
+@media only screen and (min-width: 1024px) {
+  .post-header {
+    align-self: center;
+    flex-shrink: 0;
+    flex-grow: 0;
+    flex-basis: 16em;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .post-header {
+    justify-content: center;
+    display: flex;
+    margin-top: 3em;
+    position: absolute;
+    width: 33%;
+  }
 }
 
 .menu-item {
@@ -76,16 +98,27 @@ a {
   justify-content: center;
 }
 
-
 .post-content {
   overflow-y: scroll;
   height: 80%;
   font-family: "ambiguity-thrift-light";
-  padding-right: 10em;
   mask-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(255, 0, 0, 1), rgba(0, 0, 0, 0));
   -webkit-mask-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(255, 0, 0, 1), rgba(0, 0, 0, 0));
 }
 
+
+@media only screen and (min-width: 1024px) {
+  .post-content {
+    padding-right: 10em;
+  }
+}
+
+
 .post-content p {
   font-size: 1.5em;
+}
+
+.post-text:hover {
+  opacity: 0;
+  transition: 1s;
 }

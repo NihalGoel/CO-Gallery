@@ -4,12 +4,13 @@
   overflow-y: scroll;
   min-width: fit-content;
 }
-  @media only screen and (max-width: 600px) {
-    .container {
-      display: none;
-      visibility: hidden;
-    }
+
+@media only screen and (max-width: 600px) {
+  .container {
+    display: none;
+    visibility: hidden;
   }
+}
 
 .text {
   margin-left: 2em;
