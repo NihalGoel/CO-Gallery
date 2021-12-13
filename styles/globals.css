@@ -111,14 +111,19 @@ a {
   overflow-y: scroll;
   height: 80%;
   font-family: "ambiguity-thrift-light";
+  padding-right: 10em;
   mask-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(255, 0, 0, 1), rgba(0, 0, 0, 0));
   -webkit-mask-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(255, 0, 0, 1), rgba(0, 0, 0, 0));
 }
 
 
-@media only screen and (min-width: 1024px) {
+@media only screen and (max-width: 1024px) {
   .post-content {
-    padding-right: 10em;
+    padding-right: 3em;
+    padding-left: 3em;
+    margin-top: 18em;
+    mask-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(255, 0, 0, 1), rgba(255, 0, 0, 1));
+    -webkit-mask-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(255, 0, 0, 1), rgba(255, 0, 0, 1));
   }
 }
 
@@ -141,7 +146,7 @@ a {
   font-family: ambiguity-thrift-light;
   position: absolute;
   height: 2em;
-  padding-left: 2em;
+  padding-left: 1em;
   padding-top: 1em;
   background: none;
 }
