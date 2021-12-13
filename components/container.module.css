@@ -33,7 +33,7 @@
 .body {
   overflow-y: scroll;
   max-height: 100vh;
-  font-family: ambiguityRadicalLight, "Comic Sans MS";
+  font-family: ambiguity-radical-light;
   padding-right: 10em;
   margin-top: 6em;
   margin-bottom: 6em;
