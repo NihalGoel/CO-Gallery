@@ -5,6 +5,7 @@ import Posts from '../components/posts'
 export default function Index({posts, children}) {
       return (
           <div className={container.container}>
+            <a href="/" className="clouds-glossary">Clouds Glossary</a>
             <div className={container.contentContainer}></div>
             <Menu>
               {posts.length > 0 && <Posts posts={posts}></Posts>}

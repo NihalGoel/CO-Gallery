@@ -127,7 +127,21 @@ a {
   font-size: 1.5em;
 }
 
+.post-text{
+  transition: 1s;
+}
 .post-text:hover {
   opacity: 0;
+  /*padding-right: 0.7em;*/
+  /*padding-left: 0.7em;*/
   transition: 1s;
+}
+
+.clouds-glossary {
+  font-family: ambiguity-thrift-light;
+  position: absolute;
+  height: 2em;
+  padding-left: 2em;
+  padding-top: 1em;
+  background: none;
 }
