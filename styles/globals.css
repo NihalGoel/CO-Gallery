@@ -63,7 +63,6 @@ a {
 
 .post-header {
   font-family: "ambiguity-radical-light";
-  
   justify-content: center;
   display: flex;
 }
@@ -77,8 +76,9 @@ a {
   }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 1024px) {
   .post-header {
+    align-self: center;
     justify-content: center;
     display: flex;
     margin-top: 3em;
@@ -92,11 +92,20 @@ a {
 }
 
 .post-body {
-  font-family: "ambiguity-radical-light";
   display: flex;
   align-items: center;
   justify-content: center;
+  text-align: center;
 }
+ @media only screen and (max-width: 1024px){
+   .post-body {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+     height: 80%;
+   }
+ }
 
 .post-content {
   overflow-y: scroll;
