@@ -6,8 +6,11 @@
 
 @media only screen and (max-width: 1024px) {
   .container {
+    margin-top: 4em;
+    overflow-y: auto;
+  }
+  .container::-webkit-scrollbar {
     display: none;
-    visibility: hidden;
   }
 }
 
