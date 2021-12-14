@@ -98,6 +98,18 @@ a {
 
 .menu-item {
   font-family: "ambiguity-thrift-light";
+  will-change: transform;
+  animation: marquee 32s linear infinite;
+}
+
+@keyframes marquee {
+  from { transform: translateY(0); }
+  to { transform: translateY(-50%); }
+}
+
+
+.menu-item a:focus {
+  font-family: ambiguity-thrift-light-it;
 }
 
 .post-body {

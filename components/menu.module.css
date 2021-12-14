@@ -1,16 +1,8 @@
 .container {
   flex-grow: 1;
   background-image: linear-gradient(to right, #b2b2b2 1% , white);
-  will-change: transform;
-  animation: marquee 32s linear infinite;
   min-width: fit-content;
 }
-
-@keyframes marquee {
-  from { transform: translateY(0); }
-  to { transform: translateY(-50%); }
-}
-
 
 @media only screen and (max-width: 1024px) {
   .container {
