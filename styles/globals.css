@@ -96,28 +96,22 @@ a {
   }
 }
 
-.menu-item {
-  font-family: "ambiguity-thrift-light";
-}
-
 
 .menu-item{
+  font-family: "ambiguity-thrift-light";
   will-change: transform;
   animation: marquee 32s linear infinite;
 }
 
 @media only screen and (min-width: 1024px) {
   @keyframes marquee {
-    from {
-      transform: translateY(0);
-    }
-    to {
-      transform: translateY(-50%);
-    }
+    from {transform: translateY(0);}
+    to {transform: translateY(-50%);}
   }
 
   .menu-item a:focus {
     font-family: ambiguity-thrift-light-it;
+    line-height: 300%;
   }
 }
 
@@ -205,4 +199,27 @@ a {
     display: none;
     visibility: hidden;
   }
+}
+
+.tooltip {
+  font-size: 0.5em;
+  font-family: ambiguity-thrift-semibold;
+  display: inline-block;
+  background-color: red;
+  vertical-align: text-top;
+  width: 2em;
+  height: 2em;
+}
+
+.tooltip .tooltip-text {
+  display: table;
+  position: relative;
+  visibility: visible;
+  vertical-align: center;
+  /*display: none;*/
+}
+
+.tooltip:hover .tooltip-text {
+  visibility: visible;
+  font-family: ambiguity-radical-light;
 }
