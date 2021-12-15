@@ -5,11 +5,11 @@ export default function PostBody({ content }) {
   const selectEveryWordInsideP = /(\w+(?![^<>]*>))/igm
   console.log(content)
   content = content.toString()
-    .replace(/(<strong>)/igm, ' <span class="tooltip">1<span class="tooltip-text">')
-    .replace(/(<\/strong>)/igm, '</span></span>')
-  console.log(content)
-  content = content.toString().replace(selectEveryWordInsideP, '<span class="post-text">$1</span>')
+    .replace(/(<\/p>\n<h2>)/igm, ' <span class="tooltip"><sup><strong>1</strong></sup><span class="tooltip-text">')
+    .replace(/(<\/h2>)/igm, '</span></span></p>')
   // console.log(content)
+  content = content.toString().replace(selectEveryWordInsideP, '<span class="post-text">$1</span>')
+  console.log(content)
   return (
     <div className="post-body">
       <div

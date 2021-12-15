@@ -202,24 +202,18 @@ a {
 }
 
 .tooltip {
-  font-size: 0.5em;
+  font-size: 0.7em;
   font-family: ambiguity-thrift-semibold;
-  display: inline-block;
-  background-color: red;
-  vertical-align: text-top;
-  width: 2em;
-  height: 2em;
 }
 
 .tooltip .tooltip-text {
-  display: table;
-  position: relative;
-  visibility: visible;
-  vertical-align: center;
-  /*display: none;*/
+  font-family: ambiguity-radical-light;
+  display: none;
 }
 
 .tooltip:hover .tooltip-text {
   visibility: visible;
   font-family: ambiguity-radical-light;
+  display: block;
+  padding-left: 50%;
 }
