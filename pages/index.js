@@ -7,7 +7,6 @@ export default function Index({posts, children}) {
   const router = useRouter()
   let filteredPosts;
   const isDE = router.asPath.toString().endsWith("=de")
-  console.log(router)
   if(isDE){
     filteredPosts = posts.filter(filterDe)
   } else {
