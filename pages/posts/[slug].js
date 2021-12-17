@@ -15,6 +15,14 @@ export default function Post({ post, titles }) {
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />
   }
+
+  let filteredTitles;
+  if(router.asPath.toString().endsWith("_de")){
+    filteredTitles = titles.filter(filterDe)
+  } else {
+    filteredTitles = titles.filter(filterEn)
+  }
+
   return (
         <>
       {router.isFallback ? (
@@ -29,12 +37,20 @@ export default function Post({ post, titles }) {
           <div className={container.container}>
             <PostHeader title={post.title} />
             <PostBody content={post.content} />
-            <Menu>{titles.length > 0 && <Posts posts={titles}/>}</Menu>
+            <Menu>{filteredTitles.length > 0 && <Posts posts={filteredTitles}/>}</Menu>
           </div>
         </>
       )}
         </>
   )
+}
+
+function filterEn(value) {
+  return value.slug.toString().endsWith("_en")
+}
+
+function filterDe(value) {
+  return value.slug.toString().endsWith("_de")
 }
 
 export async function getStaticProps({ params }) {
