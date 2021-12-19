@@ -99,19 +99,19 @@ a {
 
 .menu-item{
   font-family: "ambiguity-thrift-light";
-  will-change: transform;
-  animation: marquee 32s linear infinite;
+  /*will-change: transform;*/
+  /*animation: marquee 32s linear infinite;*/
 }
 
 @media only screen and (min-width: 1024px) {
-  @keyframes marquee {
-    from {transform: translateY(0);}
-    to {transform: translateY(-50%);}
-  }
+/*  @keyframes marquee {*/
+/*    from {transform: translateY(0);}*/
+/*    to {transform: translateY(-50%);}*/
+/*  }*/
 
   .menu-item a:focus {
     font-family: ambiguity-thrift-light-it;
-    line-height: 300%;
+    /*line-height: 300%;*/
   }
 }
 
@@ -133,7 +133,7 @@ a {
 
 .post-content {
   overflow-y: scroll;
-  height: 80%;
+  max-height: 80%;
   font-family: "ambiguity-thrift-light";
   padding-right: 10em;
   mask-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(255, 0, 0, 1), rgba(0, 0, 0, 0));
@@ -158,6 +158,10 @@ a {
 
 .post-content p {
   font-size: 1.5em;
+}
+
+.post-content ul {
+  text-align: left;
 }
 
 .post-text{
@@ -234,4 +238,8 @@ a {
   font-family: ambiguity-radical-light;
   display: block;
   padding-left: 50%;
+}
+
+.tooltip-text .post-text{
+  opacity: 1;
 }

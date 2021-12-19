@@ -2,6 +2,7 @@
   flex-grow: 1;
   background-image: linear-gradient(to right, #b2b2b2 1% , white);
   min-width: fit-content;
+  overflow-y: auto;
 }
 
 @media only screen and (max-width: 1024px) {

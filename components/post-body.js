@@ -4,7 +4,9 @@ import container from './container.module.css'
 export default function PostBody({ content }) {
   const selectEveryWordInsideP = /(\w+(?![^<>]*>))/igm
   content = content.toString()
-    .replace(/(<\/p>\n<h2>)/igm, ' <span class="tooltip"><sup><strong>1</strong></sup><span class="tooltip-text">')
+    .replace(/(-!)/gm, '<span class="tooltip"><sup><strong>')
+    .replace(/(!-)/gm, '</strong></sup><span class="tooltip-text">')
+    .replace(/(<\/p>\n<h2>)/igm, '')
     .replace(/(<\/h2>)/igm, '</span></span></p>')
     .replace(selectEveryWordInsideP, '<span class="post-text">$1</span>')
 
