@@ -7,5 +7,5 @@ title: 'Clouds'
 
 * [Beginnings](Beginnings_en)
 
-* [Clouds, Gray](Clouds,%20Gray_en)
+* [Clouds, Gray](Clozuds,%20Gray_en)
 
