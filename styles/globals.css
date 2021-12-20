@@ -101,22 +101,9 @@ a {
   white-space: nowrap;
   overflow: hidden;
   display: inline-block;
-  animation: marquee 32s linear infinite;
 }
 
 @media only screen and (min-width: 1024px) {
-  @keyframes marquee {
-  from {
-    -moz-transform: translateY(100%);
-    -webkit-transform: translateY(100%);
-    transform: translateY(100%);
-  }
-  to {
-    -moz-transform: translateY(-100%);
-    -webkit-transform: translateY(-100%);
-    transform: translateY(-100%);
-  }
-}
 
   .menu-item a:focus {
     font-family: ambiguity-thrift-light-it;
