@@ -7,4 +7,4 @@ title: 'Dirt'
 "While rain flushes these particles out of the lower layers of the atmosphere, they can linger in the uppermost layers for three to ten years. Over time, thousands of tons of soot can accumulate there. The particles fundamentally alter the way solar radiation interacts with the atmosphere: soot absorbs sunlight, while aluminum reflects it, but both types of particles absorb long-wave thermal radiation from Earth on their way into space.” -!13!-
 ## **13** [Sibylle Anderl: _Thousands of tons of soot_, in: _Frankfurter Allgemeine Zeitung_, 20. Juli 2021](https://zeitung.faz.net/faz/deutschland-und-die-welt/2021-07-20/tausende-tonnen-von-russ/638225.html)
 
-* Clouds
+* [Clouds](Clouds_en)

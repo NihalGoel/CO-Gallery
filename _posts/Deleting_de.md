@@ -6,5 +6,6 @@ title: 'Löschen'
 **Wenn Sie** in Dropbox eine Datei löschen, ist diese in der Ordnerstruktur Ihres Kontos nicht mehr sichtbar. Die Datei wird jedoch erst nach Ablauf des Wiederherstellungszeitraums endgültig gelöscht.” -!18!-
 ## **18.** [nach](https://help.dropbox.com/de-de/files-folders/restore-delete/delete-files)
 
-* Vertrauen
-* Speichern
+* [Vertrauen](Trust_de)
+
+* [Speichern](Saving_de)

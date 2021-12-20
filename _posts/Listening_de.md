@@ -7,6 +7,8 @@ title: 'Hören'
 **Andere Mitarbeiter** notierten wiederum alles, was der Lautsprecher darüber hinaus aufnimmt – auch Gespräche im Hintergrund. Mitunter seien das auch vertrauliche Dinge, etwa Namen, Bankverbindungen oder Äußerungen von Kindern. In solchen Fällen sollen die Mitarbeiter einen Haken bei einer Checkbox für ›kritische Daten‹ setzen und mit der nächsten Audiodatei weitermachen.” -!15!-
 ## **15.** [Axel Kannenberg: _Amazon-Mitarbeiter tippen zum Teil Alexa-Sprach- befehle ab_, in: _heise.de_, 11. April 2019, zit. nach](https://heise.de/-4374871).
 
-* Cloud
-* Löschen
-* Speichern
+* [Wolke](Clouds_de)
+
+* [Löschen](Clear%20Skies_de)
+
+* [Speichern](Saving_de)

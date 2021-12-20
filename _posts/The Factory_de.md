@@ -6,5 +6,6 @@ Manchmal sieht man aus dem Kühlturm des Kraftwerks nahe Leipzig riesige Wolken 
 ## **9** Bertolt Brecht: _Der Dreigroschenprozeß. Ein soziologisches Experiment_, in: ders.: _Große kommentierte Berliner und Frankfurter Ausgabe_, hrsg. von Wer- ner Hecht u.a., Bd. 21, Schriften 1, Frankfurt am Main 1992, S. 469
 **Brecht hatte** dabei die unsichtbaren Aspekte der Gegenwart vor Augen. **Inzwischen wissen** wir, welch unvorstellbar großen Einfluss die Industrialisierung auch auf die Entwicklung des Klimas hatte und hat. Uns das vorzustellen und zu vergegenwärtigen gelingt kaum. Die Fotografie scheint absolut machtlos dabei zu sein, diese Zusammenhänge darzustellen.
 
-* Fotografie
-* Dreck
+* [Fotografie](Photography_de)
+
+* [Dreck](Dirt_de)

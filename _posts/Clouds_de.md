@@ -7,5 +7,6 @@ title: 'Wolke'
 **Sie versprechen** ihm, daß er die Sprache der Tiere verstehen, daß er auf den Wolken liege könne. Aber all das lockt ihn nicht heraus.” -!27!-
 ## **27** Michael Köhlmeier: _Sagen des klassischen Altertums_, München: Piper, 1996, S. 17, 77, 98.
 
-* Anfang
-* Wolken, graue
+* [Anfang](Beginnings_de)
+
+* [Wolken, graue](Clouds,%20Gray_de)

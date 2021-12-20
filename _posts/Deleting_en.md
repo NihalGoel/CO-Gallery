@@ -5,3 +5,7 @@ title: 'Deleting'
 ## **10.** “How to Delete Files or Folders from Dropbox,” [_Dropbox_](https://help.dropbox.com/de-de/files-folders/restore-delete/delete-files), (accessed on September 8, 2021).
 **“When you** delete a file from Dropbox, it’s no longer visible in any of the folders you see in your account. However, the file isn’t permanently deleted until after your recovery window.” -!11!-
 ## **11.** “How to Delete Files or Folders from Dropbox.”
+
+* [Trust](Trust_en)
+
+* [Saving](Saving_en)

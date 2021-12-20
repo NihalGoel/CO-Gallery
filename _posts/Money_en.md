@@ -7,7 +7,7 @@ billion on its $13 billion revenue. . . . **Nice**
 into the cloud. Through combustion.”-!20!-
 ## **20.** “Wed Feb 3 2021,” _Fefes Blog_, February 3, 2021, https://blog.fefe.de/?ts=9ee433ae (accessed on September 8, 2021). Translated here by Sylee Gore.
 
-* The Cloud
+* [The Cloud](Clouds_en)
 
-* Fire
+* [Fire](Fire_en)
 

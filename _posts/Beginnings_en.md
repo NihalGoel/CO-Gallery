@@ -11,9 +11,11 @@ title: 'Beginnings'
 “And Moses went up into the mount, and the cloud covered the mount. And the glory of the LORD abode upon mount Sinai, and the cloud covered it six days; and the seventh day He called unto Moses out of the midst of the cloud. And the appearance of the glory of the LORD was like devouring fire on the top of the mount in the eyes of the children of Israel. And Moses entered into the midst of the cloud, and went up into the mount; and Moses was in the mount forty days and forty nights.” -!4!-
 ## **4.** Gen. 24:15–18, in _The Holy Scriptures According to the Masoretic Text: A New Translation_, 110.
 
-* Clouds
-* Fire
-* Unknowing
+* [Clouds](Clouds_en)
+
+* [Fire](Fire_en)
+
+* [Unknowing](Unknowing_en)
 
 
 
