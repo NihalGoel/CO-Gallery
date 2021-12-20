@@ -112,6 +112,10 @@ a {
     font-family: ambiguity-thrift-light-it;
     /*line-height: 300%;*/
   }
+
+  .menu-item a:hover {
+    cursor: url('data:image/svg+xml;utf8,<svg id="svg" xmlns="http://www.w3.org/2000/svg" width="66" height="72"><circle cx="42" cy="48" r="16" stroke-width="2" style="stroke: white; fill: white; filter: blur(4px)"/></svg>') 52 52, pointer;
+  }
 }
 
 .post-body {
