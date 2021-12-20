@@ -6,6 +6,7 @@
 .container {
   display: flex;
   height: 100vh;
+  gap: 7%;
 }
 
 @media only screen and (max-width: 1024px) {
