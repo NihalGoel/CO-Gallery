@@ -112,23 +112,29 @@ a {
 
 .menu-item{
   font-family: "ambiguity-thrift-light";
-  /*will-change: transform;*/
-  /*animation: marquee 32s linear infinite;*/
+  will-change: transform;
+  animation: marquee 32s linear infinite;
 }
 
 @media only screen and (min-width: 1024px) {
-/*  @keyframes marquee {*/
-/*    from {transform: translateY(0);}*/
-/*    to {transform: translateY(-50%);}*/
-/*  }*/
+  @keyframes marquee {
+    from {transform: translateY(0);}
+    to {transform: translateY(-50%);}
+  }
 
   .menu-item a:focus {
     font-family: ambiguity-thrift-light-it;
-    /*line-height: 300%;*/
+    line-height: 300%;
   }
 
   .menu-item a:hover {
     cursor: url('data:image/svg+xml;utf8,<svg id="svg" xmlns="http://www.w3.org/2000/svg" width="66" height="72"><circle cx="42" cy="48" r="16" stroke-width="2" style="stroke: white; fill: white; filter: blur(4px)"/></svg>') 52 52, pointer;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .menu-item2 {
+    display: none;
   }
 }
 
