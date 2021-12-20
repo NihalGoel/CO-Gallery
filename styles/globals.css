@@ -167,13 +167,13 @@ a {
 }
 
 .post-text{
-  transition: 1s;
+  transition: 0.7s;
 }
 .post-text:hover {
   opacity: 0;
   /*padding-right: 0.7em;*/
   /*padding-left: 0.7em;*/
-  transition: 1s;
+  transition: 0.7s;
 }
 
 .clouds-glossary {
