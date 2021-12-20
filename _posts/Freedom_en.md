@@ -6,5 +6,3 @@ title: 'Freedom'
 
 * Feet
 * Longing
-
-&nbsp;

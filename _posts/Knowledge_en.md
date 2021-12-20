@@ -10,5 +10,3 @@ Philo and Gunge: You are in the presence of the all-knowing trash heap. Yeah. Th
 * Garbage
 
 * Saving
-
-&nbsp;

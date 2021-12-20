@@ -10,7 +10,3 @@ title: 'Photography'
 * Deleting
 
 * Saving
-
-&nbsp;
-
-&nbsp;

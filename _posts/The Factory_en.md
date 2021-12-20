@@ -7,7 +7,3 @@ Huge clouds can sometimes be seen rising from the cooling tower of the power pla
 
 * Photography
 * Dirt
-
-&nbsp;
-
-&nbsp;

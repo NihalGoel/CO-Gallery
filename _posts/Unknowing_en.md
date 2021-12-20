@@ -7,7 +7,3 @@ title: 'Unknowing'
 
 * Beginnings
 * Clouds
-
-&nbsp;
-
-&nbsp;
