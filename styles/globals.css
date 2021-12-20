@@ -124,7 +124,7 @@ a {
 
   .menu-item a:focus {
     font-family: ambiguity-thrift-light-it;
-    line-height: 300%;
+    /*line-height: 300%;*/
   }
 
   .menu-item a:hover {
