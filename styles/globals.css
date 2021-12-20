@@ -123,9 +123,9 @@ a {
     line-height: 300%;
   }
 
-  .menu-item a {
-    display: inline-block;
-  }
+.menu-item a {
+  display: inline-block;
+}
 }
 
 .post-body {
