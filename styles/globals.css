@@ -117,7 +117,6 @@ a {
 }
 
 
-@media only screen and (min-width: 1024px) {
   @keyframes marquee {
     from {transform: translateY(0);}
     to {transform: translateY(-50%);}
@@ -131,13 +130,7 @@ a {
   .menu-item a:hover {
     cursor: url('data:image/svg+xml;utf8,<svg id="svg" xmlns="http://www.w3.org/2000/svg" width="66" height="72"><circle cx="42" cy="48" r="16" stroke-width="2" style="stroke: white; fill: white; filter: blur(4px)"/></svg>') 52 52, pointer;
   }
-}
 
-@media only screen and (max-width: 1024px) {
-  .menu-item2 {
-    display: none;
-  }
-}
 
 .post-body {
   display: flex;
@@ -215,7 +208,7 @@ a {
   font-family: ambiguity-thrift-light;
   position: absolute;
   height: 2em;
-  margin-left: 10em;
+  margin-left: 15em;
   margin-top: 1em;
   background: none;
 }
@@ -224,7 +217,7 @@ a {
   font-family: ambiguity-thrift-light;
   position: absolute;
   height: 2em;
-  margin-left: 12em;
+  margin-left: 17.5em;
   margin-top: 1em;
   background: none;
 }
@@ -233,7 +226,7 @@ a {
   font-family: ambiguity-thrift-light;
   position: absolute;
   height: 2em;
-  margin-left: 20em;
+  margin-left: 24em;
   margin-top: 1em;
   background: none;
 }
