@@ -6,7 +6,10 @@ export default function PostPreview({
   slug,
 }) {
   const router = useRouter();
-  const isActive = router.asPath.endsWith(slug.toString())
+  const isActive = router.asPath.endsWith(slug.toString().split(" ").pop())
+  console.log(router)
+  if(isActive)
+    console.log(router)
   return (
     <div>
       <h3>
