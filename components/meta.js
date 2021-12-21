@@ -4,7 +4,6 @@ export default function Meta() {
   return (
     <Head>
       <title>C|O Berlin</title>
-      <meta name="robots" content="index"/>
       <link
         rel="apple-touch-icon"
         sizes="180x180"
