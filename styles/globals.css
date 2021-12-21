@@ -163,12 +163,12 @@ a {
 
 @media only screen and (max-width: 1024px) {
   .post-content {
-    padding-top: 0em;
+    padding-top: 2em;
     padding-right: 3em;
     padding-left: 3em;
-    margin-top: 8em;
-    mask-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(255, 0, 0, 1), rgba(255, 0, 0, 1));
-    -webkit-mask-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(255, 0, 0, 1), rgba(255, 0, 0, 1));
+    margin-top: 5em;
+    /*mask-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(255, 0, 0, 1), rgba(255, 0, 0, 1));*/
+    /*-webkit-mask-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(255, 0, 0, 1), rgba(255, 0, 0, 1));*/
   }
 
   .post-content::-webkit-scrollbar {
