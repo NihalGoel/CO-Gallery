@@ -275,3 +275,7 @@ a {
 .post-content li p {
   font-size: 1em;
 }
+
+.tooltip-text .subscript {
+  font-family: ambiguity-thrift-semibold;
+}
