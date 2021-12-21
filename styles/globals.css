@@ -271,3 +271,11 @@ a {
 .tooltip-text .post-text{
   opacity: 1;
 }
+
+.post-content li {
+  font-size: 1.5em;
+}
+
+.post-content li p {
+  font-size: 1em;
+}
