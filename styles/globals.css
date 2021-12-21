@@ -113,7 +113,7 @@ a {
 .menu-item{
   font-family: "ambiguity-thrift-light";
   will-change: transform;
-  animation: marquee 20s linear infinite;
+  animation: marquee 50s linear infinite;
 }
 
 
