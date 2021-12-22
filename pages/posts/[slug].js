@@ -31,7 +31,7 @@ export default function Post({ post, titles }) {
         <>
           <Head>
             <title>
-            {post.title} | C|O gallery
+            {post.title} | C|O Berlin
             </title>
           </Head>
           <div className={container.container}>
