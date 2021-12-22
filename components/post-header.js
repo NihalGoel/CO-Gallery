@@ -21,7 +21,7 @@ export default function PostHeader({ title }) {
       <a href="/" className="clouds-glossary">{cloudsGlossaryText}</a>
       <a href={enUrl} className="en">(En)</a>
       <a href={deUrl} className="de">(De)</a>
-      <a href={artistUrl} className="adrian-sauer">&#8730;</a>
+      <a href={artistUrl} className="adrian-sauer">+</a>
       <a href="/" className="cross-menu">&#x2573;</a>
       <PostTitle>{title}</PostTitle>
     </>

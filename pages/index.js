@@ -22,7 +22,7 @@ export default function Index({posts, children}) {
   return (
           <div className={container.container}>
             <a href="/" className="clouds-glossary">{cloudsGlossaryText}</a>
-            <a href={artistUrl} className="adrian-sauer">&#8730;</a>
+            <a href={artistUrl} className="adrian-sauer">+</a>
             <a href="?lang=en" className="en">(En)</a>
             <a href="?lang=de" className="de">(De)</a>
             <div className={container.contentContainer}></div>
