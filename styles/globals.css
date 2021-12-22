@@ -276,6 +276,10 @@ a {
   font-size: 1em;
 }
 
+.post-content a {
+  text-decoration: underline;
+}
+
 .tooltip-text .subscript {
   font-family: ambiguity-thrift-semibold;
 }
