@@ -2,6 +2,7 @@
 title: 'Über diesen Text'
 ---
 Je mehr ich versuche, mich der Wolke zu nähern, desto weiter rückt sie in die Ferne. Die Wolke ist ein Bild für so vieles, dass man es gar nicht fassen kann. Was natürlich auch wieder dem Bild der Wolke entspricht. **Die Computer-Cloud** hingegen ist ein Hohn und ein Euphemismus. Jedenfalls für unser Selbstbild als aufgeklärte, nach Erkenntnis strebende Individuen. Sie lügt uns so ins Gesicht wie wir es von den digitalen Auswüchsen des Kapitalismus erwarten. Wir regen uns nicht weiter drüber auf, weil sie unser Leben so auch angenehmer macht. Die Cloud beschreibt die Aufgabe des Verlangens, zu wissen, wie etwas funktioniert. Wo unsere Daten sind, wie sie verarbeitet werden, wer Zugriff darauf hat, was ich davon wem preisgebe und welche Risiken damit verbunden sind. **Obwohl die** Fotografie ein wichtiger Meilenstein in der Welt der Rationalisierung ist, ist ihre Wirkung auch magisch. Für unsere Sinne entstehen die Bilder wie ein Wunder. Natürlich könnten wir rational erklären, wie das alles funktioniert. Das könnten wir ja auch bei der Cloud. Wir ziehen es vor, Konsumenten zu sein. Fotografie und Cloud richten sich an unsere alltägliche Bequemlichkeit, dienen und profitieren von ihr. Unsere Alltagspragmatik und Bequemlichkeit im Denken lässt jene profitieren, die sowohl die Funktionsweise der Technik als auch die menschliche Natur verstehen: die politischen und wirtschaftlichen Demagogen.
-Die Ausstellung wird gefördert durch die Kulturstiftung des Bundes
+
+Die Ausstellung wird gefördert durch die Kulturstiftung des Bundes.
 
 

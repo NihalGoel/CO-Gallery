@@ -6,4 +6,4 @@ Neben visuellen Arbeiten gehört zur Praxis des Fotokünstlers Adrian Sauer auch
 
 Als digitales Glossar konzipiert, begleitet die Arbeit Themen der Ausstellung ["<u>“Songs of the Sky. Photography and the Cloud”</u>](https://co-berlin.org/en/program/exhibitions/songs-sky), die vom 11. Dezember 2021 bis 21. April 2022 bei [<u>C/O Berlin</u>](https://co-berlin.org/) im Amerika Haus zu sehen ist.
 
-Die Ausstellung wird gefördert durch die Kulturstiftung des Bundes
+Die Ausstellung wird gefördert durch die Kulturstiftung des Bundes.

@@ -6,4 +6,4 @@ The closer I try to get to the cloud, the further it retreats. The cloud is a sy
 
 Although the development of photography represents a key milestone in the world of rationalization, it also has a magical effect. The images emerge like a miracle to our senses. Of course, we could also explain that in rational terms. We could do the same with the cloud. We’d rather be consumers. Photography and the cloud cater to, serve, and benefit our day-to-day laziness. Our desire for everyday practicality and convenience benefits those who understand the inner workings of human nature and technology: political and economic demagogues.
 
-
+The Exhibition is funded by the German Federal Cultural Foundation. 
