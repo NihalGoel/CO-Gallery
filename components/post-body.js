@@ -7,7 +7,7 @@ export default function PostBody({ content }) {
     .replace(/(-!)/gm, '<span class="tooltip"><sup><strong>')
     .replace(/(!-)/gm, '</strong></sup><span class="tooltip-text">')
     .replace(/(<\/p>\n<h2>)/igm, '')
-    .replace(/(<\/h2>)/igm, '</span></span></p>')
+    .replace(/(<\/h2>\n<p>)/igm, '</span></span>')
     .replace(selectEveryWordInsideP, '<span class="post-text">$1</span>')
 
   return (
