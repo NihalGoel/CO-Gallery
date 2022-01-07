@@ -31,7 +31,7 @@ export default function Post({ post, titles }) {
         <>
           <Head>
             <title>
-            {post.title} | C|O Berlin
+            {post.title ? post.title + " | Glossary" : Glossary}
             </title>
           </Head>
           <div className={container.container}>
