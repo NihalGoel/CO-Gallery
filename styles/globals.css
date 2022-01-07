@@ -262,6 +262,7 @@ a {
   font-family: ambiguity-radical-light;
   display: block;
   padding-left: 50%;
+  padding-bottom: 1em;
 }
 
 .tooltip-text .post-text{
