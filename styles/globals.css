@@ -265,6 +265,12 @@ a {
   padding-bottom: 1em;
 }
 
+.tooltip:hover {
+  box-sizing: border-box;
+  padding-left: 50%;
+  margin-left: -50%;
+}
+
 .tooltip-text .post-text{
   opacity: 1;
 }
