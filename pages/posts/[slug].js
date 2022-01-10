@@ -17,10 +17,13 @@ export default function Post({ post, titles }) {
   }
 
   let filteredTitles;
+  let windowTitleSuffix;
   if(router.asPath.toString().endsWith("_de")){
     filteredTitles = titles.filter(filterDe)
+    windowTitleSuffix = "Glossar"
   } else {
     filteredTitles = titles.filter(filterEn)
+    windowTitleSuffix = "Glossary"
   }
 
   return (
@@ -31,7 +34,7 @@ export default function Post({ post, titles }) {
         <>
           <Head>
             <title>
-            {post.title ? post.title + " | Glossary" : Glossary}
+            {post.title ? post.title + " | " + windowTitleSuffix : windowTitleSuffix}
             </title>
           </Head>
           <div className={container.container}>
