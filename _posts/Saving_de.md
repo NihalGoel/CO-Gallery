@@ -5,4 +5,4 @@ Jeff Bezos sagt, speichern sei günstiger als löschen. Ich finde die Quelle die
 
 * [Über diesen Text](About%20This%20Text_de)
 
-* [Löschen](Saving_de)
+* [Löschen](Deleting_de)
