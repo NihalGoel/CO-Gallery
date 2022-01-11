@@ -7,13 +7,16 @@ export default function PostHeader({ title }) {
   const deUrl = router.asPath.toString().replace("_en", "_de")
   const isDE = router.asPath.toString().endsWith("_de")
   let cloudsGlossaryText;
-  let artistUrl
+  let artistUrl;
+  let crossUrl;
   if(isDE){
     artistUrl = "/posts/Adrian_de"
     cloudsGlossaryText = "Unter, in und über Wolken"
+    crossUrl = "/?lang=de"
   } else {
     artistUrl = "/posts/Adrian_en"
     cloudsGlossaryText = "Below, in, and above Clouds"
+    crossUrl = "/"
   }
 
   return (
@@ -22,7 +25,7 @@ export default function PostHeader({ title }) {
       <a href={enUrl} className="en">(En)</a>
       <a href={deUrl} className="de">(De)</a>
       <a href={artistUrl} className="adrian-sauer">+</a>
-      <a href="/" className="cross-menu">&#x2573;</a>
+      <a href={crossUrl} className="cross-menu">&#x2573;</a>
       <PostTitle>{title}</PostTitle>
     </>
   )
